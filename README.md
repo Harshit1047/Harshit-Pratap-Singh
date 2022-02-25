@@ -12,7 +12,7 @@ Merge two sorted array by removing their duplicates.
 
 
 ## Approach
-Take two input array give name as arrayA and arrayB (It may be sorted or unsorted). In first stept merge the given two input array into single unsorted array the remove duplicates from merged array by using HashSet.
+Take two input array give name as arrayA and arrayB (It may be sorted or unsorted). In first stept merge the given two input array into single unsorted array then remove duplicates from merged array by using HashSet.
 
 
 
